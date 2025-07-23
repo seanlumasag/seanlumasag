@@ -1,9 +1,9 @@
 # Hi, I'm Sean 👋
 
-🎓 CS + DS @ Rutgers University | 💻 Full-stack developer | 🧠 ML enthusiast  
+🎓 CS + DS @ Rutgers University | 💻 Software Engineer | 🧠 ML Enthusiast  
 🔧 Java | Python | Spring Boot | React | PostgreSQL  
-🌱 Currently building something  
+📫 [LinkedIn](https://linkedin.com/in/seanlumasag) | 🌐 [Website](https://seanlumasag.vercel.app) | ✉️ sean.lumasag@gmail.com  
 
 ---
-Thanks for stopping by! Feel free to explore my repos or say hi.
 
+Thanks for stopping by!
