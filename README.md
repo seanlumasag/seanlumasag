@@ -1,8 +1,12 @@
-# Hi, I'm Sean 👋
+# Hi, I'm Sean 👋  
 
-🎓 CS + DS @ Rutgers University | 💻 Software Developer | 🧠 ML Enthusiast  
-🔧 Java | Python | Spring Boot | React | PostgreSQL  
-📫 [LinkedIn](https://linkedin.com/in/seanlumasag) | 🌐 [Website](https://seanlumasag.vercel.app) | ✉️ sean.lumasag@gmail.com  
+🎓 Computer Science + Data Science @ Rutgers University–New Brunswick  
+💻 Backend-Focused Software Engineer | Systems, APIs, and Data-Driven Products  
+
+I build **scalable backend systems**, real-time services, and full-stack tools with production-style architecture — authentication, audit trails, metrics, and clean data models.
+
+📍 New Jersey, USA  
+📫 seanlumasag15@gmail.com | [LinkedIn](https://linkedin.com/in/seanlumasag) | [GitHub](https://github.com/seanlumasag)  
 
 ---
 
